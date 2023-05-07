@@ -1,0 +1,14 @@
+
+
+color-
+blck-#000000
+red-#FD511A
+green-#21B573
+
+font family-
+poppins 400,700,500(most used)
+font-family: 'Poppins', sans-serif;
+roboto 400
+font-family: 'Roboto', sans-serif;
+
+padding
